@@ -1,0 +1,15 @@
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\bin\Debug\net5.0\RegEx-Validation.exe
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\bin\Debug\net5.0\RegEx-Validation.deps.json
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\bin\Debug\net5.0\RegEx-Validation.runtimeconfig.json
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\bin\Debug\net5.0\RegEx-Validation.runtimeconfig.dev.json
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\bin\Debug\net5.0\RegEx-Validation.dll
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\bin\Debug\net5.0\RegEx-Validation.pdb
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.AssemblyInfoInputs.cache
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.AssemblyInfo.cs
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.csproj.CoreCompileInputs.cache
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.dll
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\refint\RegEx-Validation.dll
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.pdb
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\RegEx-Validation.genruntimeconfig.cache
+C:\Users\khaya\OneDrive\Desktop\RegEx-Validation\RegEx-Validation\obj\Debug\net5.0\ref\RegEx-Validation.dll
